@@ -5,6 +5,7 @@
  *      Author: Carson
  */
 #include "spi.h"
+#include "math.h"
 
 static u32 tare;
 
